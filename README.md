@@ -72,6 +72,7 @@
 * New technology to handle Web 3.0 works
 * Live data through the project (please ask for explanation if not clear)
 * App-like feeling in usage
+* Generally has full-stack developers who understand all scope
   
 #### Disadvantages
 * Higher cost on server
