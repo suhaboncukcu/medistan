@@ -8,6 +8,13 @@
 * All pages have their endpoints reachable by search engines as google.
 * A web-conference, video-chat option is possible
 
+## Basic User Journey
+ A user comes to website, understands the potential of the website. 
+Searches through the website with omnisearch, clicks one of the relevant results.
+Goes to the page and sees the Doctor's, Clinic's, etc. message. Gets the trust / can-do
+etc. feeling from the page and checks the prices. Starts end to end chat if it is 
+enabled. (contact information is not visible in messages). Pays the price if everything 
+is ok. Post purchase process begins. (All moves are tracked)
 
 
 ## Possible tech stacks to use
@@ -29,6 +36,8 @@
 * Nightwatch.js
 * Github
 * Travis
+* Segment.io
+* Vero
 
 #### Methodologies & Standards
 * PSR2 & PSR4
@@ -63,6 +72,8 @@
 * Nightwatch.js
 * Github
 * Travis
+* Segment.io
+* Vero 
 
 #### Methodologies & Standards
 * BEM methodology for all project
